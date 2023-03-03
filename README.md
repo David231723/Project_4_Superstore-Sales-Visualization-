@@ -12,7 +12,7 @@ Since all the visualizations and insights have been performed in Tableu, we will
 
 In this graph we can see that the sales are growing with the number of clients. Also, we can appriciate that sales are seasonal. Soon we will understand why. 
 
-![Sample Image](Images\Images_2\SalesEvo.png)
+![Sample Image](Images/Images_2/SalesEvo.png)
  
 
 ### **2.2 Sales Map**
