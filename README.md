@@ -19,20 +19,20 @@ In this graph we can see that the sales are growing with the number of clients. 
 
 As shown on the image below, all the superstore locations are based on the USA. As more dark is the blue color, more sales are in that specific State. 
 
-![Sample Image](Images\Images_2\Total_Sales_Map.png)
+![Sample Image](Images/Images_2/Total_Sales_Map.png)
 
 ### **2.3 Top 10 States by total Sales**
 
 In the following bar graph we can see that California is the top State, followed by New York and Texas. 
 
-![Sample Image](Images\Images_2\Top_10_States.png)
+![Sample Image](Images/Images_2/Top_10_States.png)
 
 
 ### **2.4 Sales & Discounts Correlation**
 
 The seasonlity seen in the first graph looked strange, so I created the following graph with the goal of understand if it had any correlation with the discounts. 
 
-![Sample Image](Images\Images_2\Corr.png)
+![Sample Image](Images/Images_2/Corr.png)
 
 As we can see, there exists a huge correlation between sales and discounts. So we can assume that the discounts have a big inpact on the business model.## Profitability 
 
@@ -41,13 +41,13 @@ As we can see, there exists a huge correlation between sales and discounts. So w
 States are also grouped by region. This information enable us to explore this aggregated info with, for example, the sales per product category.
 
 
-![Sample Image](Images\Images_2\Region_Total_Sales_Category.png)
+![Sample Image](Images/Images_2/Region_Total_Sales_Category.png)
 
 ### **2.6 Sub-Category Overview**
 
 Each product category has several subcategories associated with it. In the following treemap, you will be albe to see the weight of this subcats based on the total sales
 
-![Sample Image](Images\Images_2\treemap.png)
+![Sample Image](Images/Images_2/treemap.png)
 
 
 ## **3. Profitability**
@@ -58,11 +58,11 @@ Every company goal is to make money, so in order to do that has to make profit i
 
 As seen in the image below, there is not much difference of profitability between segments and regions. The only one that is significantly lower than the other is the customer clients for the central region;
 
-![Sample Image](Images\Images_2\Region_Segment_Profitability.png)
+![Sample Image](Images/Images_2/Region_Segment_Profitability.png)
 
 ### **3.2 SubCategory Profitability & Median Unit Price** 
 
-![Sample Image](Images\Images_2\Product_Sub-Category.png)
+![Sample Image](Images/Images_2/Product_Sub-Category.png)
 
 This scatter chart has enabled us to understand the relation of the unit price with its profitability. Looks like there is an inverse correlation between unit price and profitability.
 
@@ -71,18 +71,18 @@ This scatter chart has enabled us to understand the relation of the unit price w
 
 In the scatter plot below, we can differentiate two groups of states separated by profitability. 
 
-![Sample Image](Images\Images_2\Scatter_Profit_Analysis.png)
+![Sample Image](Images/Images_2/Scatter_Profit_Analysis.png)
 
 
 ## **4. RFM Analysis**
 
 As I mentioned in the initial summary, I used transactional data to segment customers based on recency, frequency and average purchase value.
 
-![Sample Image](Images\Images_2\RFM_Overview.png)
+![Sample Image](Images/Images_2/RFM_Overview.png)
 
 Here, we can see the segments based on the client number and average ticket;
 
-![Sample Image](Images\Images_2\RFM_Segments.png)
+![Sample Image](Images/Images_2/RFM_Segments.png)
 
 ## **5. Take Aways**
 
